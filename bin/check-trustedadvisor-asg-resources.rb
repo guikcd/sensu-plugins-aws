@@ -31,7 +31,7 @@
 # LICENSE:
 #   Guillaume Delacour <guillaume.delacour@oxalide.com>
 #   Released under the same terms as Sensu (the MIT license); see LICENSE
-#   for details.
+#   for details and based on check-trustedadvisor-service-limits.rb
 
 require 'sensu-plugin/check/cli'
 require 'sensu-plugins-aws'
